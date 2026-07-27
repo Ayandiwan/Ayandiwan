@@ -6,7 +6,7 @@
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:ayandiwan8769@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -28,9 +28,9 @@ Hi, I'm **Ayan Diwan** 👋
 
 🎓 B.Tech Agricultural Information Technology Student at **Anand Agricultural University**
 
-💻 Passionate about **Full Stack Web Development** and building practical web applications.
+💻 Passionate about **Web Development** and building practical web applications.
 
-🌱 Currently learning **Laravel, Python, JavaScript, Node.js, SQL & AI Integration**
+🌱 Currently learning ** PHP,Laravel, Python,SQL & AI Integration**
 
 🚀 Looking for Internship & Placement opportunities
 
@@ -43,9 +43,8 @@ Hi, I'm **Ayan Diwan** 👋
 | Project | Description | Technology |
 |----------|-------------|------------|
 | **🤖 AI Based Viva Teacher** | AI-powered online viva examination system with voice & text answers, AI evaluation, student, teacher & admin modules. | `Laravel` `PHP` `Bootstrap` `MySQL` `JavaScript` |
-| **📦 ICT Inventory Management System** | Inventory management system for tracking ICT assets with reports and user management. | `PHP` `MySQL` `Bootstrap` |
 | **🌾 Agriculture Equipment Store** | Online agriculture equipment selling platform with product management and customer module. | `ASP.NET` `SQL Server` `Bootstrap` |
-| **💼 Online Job Portal** | Job portal for recruiters and job seekers with authentication and job applications. | `ASP.NET MVC` `SQL Server` |
+| **💼 Online Job Portal** | Job portal for recruiters and job seekers with authentication and job applications. | `ASP.NET` `SQL Server` |
 
 ---
 
@@ -64,8 +63,7 @@ Hi, I'm **Ayan Diwan** 👋
 # 🌱 Currently Learning
 
 - Laravel 12
-- REST API Development
-- Node.js
+- PHP
 - Python
 - Artificial Intelligence Integration
 - Git & GitHub
@@ -101,7 +99,7 @@ Hi, I'm **Ayan Diwan** 👋
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:your-email@gmail.com">
+<a href="mailto:ayandiwan8769@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
