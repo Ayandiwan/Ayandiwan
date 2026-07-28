@@ -1,63 +1,79 @@
-<h1 align="center">
-Hi 👋, I'm <span style="color:#00BFFF;">Ayan Diwan</span>
-</h1>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Ayan%20Diwan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Agricultural%20Information%20Technology%20Student%20|%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
+
+<h1>Hi 👋, I'm Ayan Diwan</h1>
 
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Full+Stack+Web+Developer;Laravel+%7C+ASP.NET+%7C+Python;Always+Learning+Something+New!" />
+<p>
+Passionate about building modern web applications using Laravel, PHP, ASP.NET, SQL Server and AI technologies.
 </p>
 
+<p>
+
+<a href="https://github.com/Ayandiwan">
+<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&logo=github&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/Ayandiwan">
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
+</a>
+
+</p>
+
+</div>
+
 ---
 
-# 👨‍💻 Who Am I?
+# 🚀 About Me
 
-🎓 **B.Tech Agricultural Information Technology**
+🎓 B.Tech Agricultural Information Technology Student
 
-🏫 Anand Agricultural University
+💻 Passionate Full Stack Developer
 
-💙 Passionate about developing modern web applications.
+🌱 Currently Learning
 
-💻 Interested in
-
-- Full Stack Development
-- Artificial Intelligence
-- Laravel
-- ASP.NET
-- Software Development
-
-🌱 Currently learning
-
+- PHP
 - Laravel 12
-- Python
-- JavaScript
-- REST APIs
-- Node.js
+- ASP.NET MVC
+- AI Integration
+- SQL Server
+
+🚀 Current Project
+
+**AI Based Viva Teacher**
+
+🎯 Goal
+
+Become a Professional Full Stack Laravel Developer.
 
 ---
 
-# ⚡ Tech Stack
+# 💼 Featured Projects
+
+| Project | Description | Technology |
+|----------|------------|------------|
+| 🤖 AI Based Viva Teacher | AI-powered Viva Examination System with Voice, Text, Timer, AI Evaluation, Admin, Teacher & Student Panel | Laravel 12, PHP, Bootstrap, MySQL |
+| 💼 Online Job Portal | Job Portal with Employer & Candidate Modules | ASP.NET MVC, SQL Server |
+| 🌾 Agriculture Equipment Store | Equipment Selling Platform | PHP, Bootstrap, MySQL |
+
+---
+
+# 💻 Tech Stack
 
 ### Languages
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=c,cs,php,python,js"/>
+<img src="https://skillicons.dev/icons?i=php,cs,python,c,html,css"/>
 
 </p>
 
-### Frontend
+### Frameworks
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=laravel,dotnet,nodejs"/>
+<img src="https://skillicons.dev/icons?i=laravel,dotnet,bootstrap"/>
 
 </p>
 
@@ -67,7 +83,7 @@ Hi 👋, I'm <span style="color:#00BFFF;">Ayan Diwan</span>
 
 <img src="https://skillicons.dev/icons?i=mysql"/>
 
-<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
 </p>
 
@@ -75,123 +91,94 @@ Hi 👋, I'm <span style="color:#00BFFF;">Ayan Diwan</span>
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=vscode,visualstudio,git,github"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
 
 </p>
 
 ---
 
-# 🚀 Projects
+# ⚡ GitHub Stats
 
-## 🤖 AI Based Viva Teacher
+<div align="center">
 
-> AI Powered Viva Examination Platform
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-✨ Features
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
-- AI Evaluation
-- Voice Answer
-- Text Answer
-- Teacher Dashboard
-- Student Dashboard
-- Admin Panel
-
-**Tech**
-
-Laravel • PHP • Bootstrap • JavaScript • MySQL
+</div>
 
 ---
 
-## 🌾 Agriculture Equipment Store
+<div align="center">
 
-Online Agriculture Shopping Platform
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
-ASP.NET • SQL Server • Bootstrap
-
----
-
-## 💼 Online Job Portal
-
-Job Posting & Recruitment System
-
-ASP.NET MVC • SQL Server
-
----
-
-## 📦 ICT Inventory Management
-
-Inventory Management System
-
-PHP • MySQL • Bootstrap
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Ayandiwan&show_icons=true&theme=radical&hide_border=true"/>
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayandiwan&layout=compact&theme=radical&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img width="98%" src="https://streak-stats.demolab.com?user=Ayandiwan&theme=radical&hide_border=true"/>
-
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10"/>
+
+</div>
+
+---
+
+# 📈 Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+
+</div>
+
+---
+
+# 🌐 Connect With Me
+
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayandiwan&theme=algolia&no-frame=true&column=4"/>
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </p>
 
 ---
 
-# 🌍 Connect with Me
+# 💡 Quote
 
-<p align="center">
+<div align="center">
 
-<a href="https://github.com/Ayandiwan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github">
-</a>
+> **"Code. Learn. Build. Repeat." 🚀**
 
-<a href="https://www.linkedin.com/in/ayan-diwan-it/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-
-<a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail">
-</a>
-
-</p>
+</div>
 
 ---
 
-# 💡 Developer Philosophy
+<div align="center">
 
-```text
-while(alive)
-{
-    Learn();
-    Build();
-    Improve();
-    Repeat();
-}
-```
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
 
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00BFFF,100:1E90FF&height=4"/>
-
-</p>
+</div>
