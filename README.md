@@ -101,7 +101,8 @@ Become a Professional Full Stack Laravel Developer.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayandiwan&show_icons=true&theme=tokyonight&hide_border=true"/>
+[<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayandiwan&show_icons=true&theme=tokyonight&hide_border=true"/>
+](https://img.shields.io/github/followers/Ayandiwan?label=Followers&logo=github&style=for-the-badge)
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayandiwan&layout=compact&theme=tokyonight&hide_border=true"/>
 
