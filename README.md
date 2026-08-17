@@ -35,7 +35,7 @@ modern web applications using Laravel, PHP, ASP.NET, .NET Framework, C#, SQL Ser
 - 💻 Passionate Full Stack Developer
 - 🚀 Laravel & .NET Developer
 - 🌱 Currently learning AI Integration and Advanced Web Development
-- 🛠️ Interested in building real-world applications
+- 🛠️ Interested in building real-world web applications
 - 🤖 Currently working on **AI Based Viva Teacher**
 - 🎯 Goal: Become a Professional Full Stack Developer
 
@@ -128,7 +128,7 @@ Web application for submitting, managing and tracking
 student leave requests and approvals.
 </td>
 <td>
-ASP.NET, .NET Framework, C#, SQL Server
+PHP, HTML, CSS, Bootstrap, MySQL
 </td>
 </tr>
 
@@ -136,13 +136,13 @@ ASP.NET, .NET Framework, C#, SQL Server
 
 ---
 
-# 📂 Project Repositories
+# 📂 My Projects
 
-### 🤖 AI Based Viva Teacher
+## 🤖 AI Based Viva Teacher
 
-AI-powered viva examination platform designed for students and teachers.
+An AI-powered viva examination platform designed for students and teachers.
 
-#### ✨ Features
+### ✨ Features
 
 - 👨‍💼 Admin Panel
 - 👨‍🏫 Teacher Panel
@@ -155,17 +155,17 @@ AI-powered viva examination platform designed for students and teachers.
 - 📊 Automatic Marks & Results
 - 📈 Student Performance History
 
-**Tech Stack:**
+### 🛠️ Tech Stack
 
 `Laravel 12` `PHP` `Bootstrap 5` `MySQL` `JavaScript` `AJAX` `AI API`
 
 ---
 
-### 💼 Online Job Portal
+## 💼 Online Job Portal
 
 A job portal application developed for employers and candidates.
 
-#### ✨ Features
+### ✨ Features
 
 - 👨‍💼 Employer Module
 - 👨‍🎓 Candidate Module
@@ -175,36 +175,36 @@ A job portal application developed for employers and candidates.
 - 👤 User Management
 - 🗄️ Database Management
 
-**Tech Stack:**
+### 🛠️ Tech Stack
 
 `ASP.NET` `.NET Framework` `C#` `SQL Server`
 
 ---
 
-### 🌾 Agriculture Equipment Store
+## 🌾 Agriculture Equipment Store
 
 An agriculture-focused web application for managing and selling agricultural equipment.
 
-#### ✨ Features
+### ✨ Features
 
-- 🌱 Agricultural Equipment
+- 🌱 Agricultural Equipment Management
 - 🛒 Product Management
 - 👤 User Management
 - 📦 Product Details
 - 🔎 Product Search
 - 🗄️ Database Management
 
-**Tech Stack:**
+### 🛠️ Tech Stack
 
 `ASP.NET` `.NET Framework` `C#` `SQL Server`
 
 ---
 
-### 🎓 Student Leave Management
+## 🎓 Student Leave Management
 
-A web application for managing student leave requests and approvals.
+A PHP-based web application for managing student leave requests and approvals.
 
-#### ✨ Features
+### ✨ Features
 
 - 👨‍🎓 Student Management
 - 📝 Leave Application
@@ -214,14 +214,15 @@ A web application for managing student leave requests and approvals.
 - 👤 User Management
 - 🗄️ Database Management
 
-🔗 **Repository:**  
+### 🛠️ Tech Stack
+
+`PHP` `HTML` `CSS` `Bootstrap` `MySQL`
+
+### 🔗 Repository
+
 <a href="https://github.com/Ayandiwan/student_leave_management">
-Student Leave Management
+<img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
-**Tech Stack:**
-
-`ASP.NET` `.NET Framework` `C#` `SQL Server`
 
 ---
 
@@ -235,22 +236,15 @@ viva examinations and automatically evaluate student answers.
 ### 🔥 Main Features
 
 ```text
-Admin
- ├── Manage Teachers
- ├── Manage Students
- ├── Manage Subjects
- ├── Manage Questions
- └── View Analytics
-
-Teacher
- ├── Create Subjects
- ├── Add Questions
- ├── Manage Viva
- └── View Student Results
-
-Student
- ├── Select Subject
- ├── Start Viva
- ├── Answer Questions
- ├── Voice / Text Answer
- └── View AI Result
+                    🤖 AI BASED VIVA TEACHER
+                              │
+              ┌───────────────┼───────────────┐
+              │               │               │
+           👨‍💼 Admin       👨‍🏫 Teacher      👨‍🎓 Student
+              │               │               │
+        Manage Users      Create Subjects   Select Subject
+        Manage Subjects   Add Questions     Start Viva
+        Manage Questions  Manage Viva       Answer Questions
+        View Analytics    View Results      Voice / Text
+                                             AI Evaluation
+                                             View Result
