@@ -1,114 +1,118 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Ayan%20Diwan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Agricultural%20Information%20Technology%20Student%20|%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Ayan%20Diwan&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=B.Tech%20Agricultural%20Information%20Technology%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
 <h1>Hi 👋, I'm Ayan Diwan</h1>
 
+<h3>🚀 Full Stack Developer | Laravel Developer | AI Enthusiast</h3>
 
 <p>
-Passionate about building modern web applications using Laravel, PHP, ASP.NET, SQL Server and AI technologies.
+B.Tech Agricultural Information Technology Student passionate about building
+modern web applications using Laravel, PHP, ASP.NET, SQL Server and AI technologies.
 </p>
 
 <p>
-
 <a href="https://github.com/Ayandiwan">
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?label=Followers&logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/Ayandiwan?label=Followers&logo=github&style=for-the-badge"/>
 </a>
 
-<a href="https://github.com/Ayandiwan">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
-</a>
+<img src="https://komarev.com/ghpvc/?username=Ayandiwan&style=for-the-badge&color=blue"/>
 
+<a href="https://github.com/Ayandiwan?tab=repositories">
+<img src="https://img.shields.io/github/stars/Ayandiwan?label=Stars&style=for-the-badge"/>
+</a>
 </p>
 
 </div>
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
-🎓 B.Tech Agricultural Information Technology Student
-
-💻 Passionate Full Stack Developer
-
-🌱 Currently Learning
-
-- PHP
-- Laravel 12
-- ASP.NET MVC
-- AI Integration
-- SQL Server
-
-🚀 Current Project
-
-**AI Based Viva Teacher**
-
-🎯 Goal
-
-Become a Professional Full Stack Laravel Developer.
+- 🎓 B.Tech Agricultural Information Technology Student
+- 💻 Passionate Full Stack Developer
+- 🌱 Currently learning Laravel, ASP.NET MVC and AI Integration
+- 🛠️ Interested in building real-world web applications
+- 🚀 Currently working on **AI Based Viva Teacher**
+- 🎯 Goal: Become a Professional Full Stack Laravel Developer
 
 ---
 
-# 💼 Featured Projects
+# 🛠️ Tech Stack
 
-| Project | Description | Technology |
-|----------|------------|------------|
-| 🤖 AI Based Viva Teacher | AI-powered Viva Examination System with Voice, Text, Timer, AI Evaluation, Admin, Teacher & Student Panel | Laravel 12, PHP, Bootstrap, MySQL |
-| 💼 Online Job Portal | Job Portal with Employer & Candidate Modules | ASP.NET MVC, SQL Server |
-| 🌾 Agriculture Equipment Store | Equipment Selling Platform | PHP, Bootstrap, MySQL |
-
----
-
-# 💻 Tech Stack
-
-### Languages
+### 💻 Programming Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=php,cs,python,c,html,css"/>
-
+<img src="https://skillicons.dev/icons?i=php,cs,python,c,html,css" />
 </p>
 
-### Frameworks
+### 🚀 Frameworks & Libraries
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=laravel,dotnet,bootstrap"/>
-
+<img src="https://skillicons.dev/icons?i=laravel,dotnet,bootstrap" />
 </p>
 
-### Database
+### 🗄️ Databases
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-
+<img src="https://skillicons.dev/icons?i=mysql" />
+<img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
-### Tools
+### 🔧 Tools & Technologies
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
 </p>
 
 ---
 
-# ⚡ GitHub Stats
+# 🚀 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| 🤖 **AI Based Viva Teacher** | AI-powered viva examination system with voice/text answers, timer, AI evaluation and Admin, Teacher & Student panels. | Laravel 12, PHP, Bootstrap, MySQL |
+| 💼 **Online Job Portal** | Online job portal with employer and candidate modules. | ASP.NET MVC, SQL Server |
+| 🌾 **Agriculture Equipment Store** | Web platform for browsing and selling agricultural equipment. | PHP, Bootstrap, MySQL |
+
+---
+
+# 🤖 Current Project
+
+## AI Based Viva Teacher
+
+An AI-powered viva examination platform designed for students and teachers.
+
+### ✨ Features
+
+- 👨‍💼 Admin Panel
+- 👨‍🏫 Teacher Panel
+- 👨‍🎓 Student Panel
+- 📚 Subject & Question Management
+- 🎤 Voice Answer
+- ✍️ Text Answer
+- ⏱️ Question Timer
+- 🤖 AI Answer Evaluation
+- 📊 Automatic Marks & Results
+- 📈 Student Performance History
+
+**Tech Stack:** Laravel 12 • PHP • Bootstrap 5 • MySQL • JavaScript • AJAX • AI API
+
+---
+
+# 📊 GitHub Statistics
 
 <div align="center">
 
-[<img height="170" src="https://github-readme-stats.vercel.app/api?username=ayandiwan&show_icons=true&theme=tokyonight&hide_border=true"/>
-](https://img.shields.io/github/followers/Ayandiwan?label=Followers&logo=github&style=for-the-badge)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayandiwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayandiwan&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
+
+# 🔥 GitHub Streak
 
 <div align="center">
 
@@ -122,17 +126,17 @@ Become a Professional Full Stack Laravel Developer.
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Ayandiwan&theme=algolia&no-frame=true&margin-w=10"/>
 
 </div>
 
 ---
 
-# 📈 Activity Graph
+# 📈 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayandiwan&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -142,7 +146,7 @@ Become a Professional Full Stack Laravel Developer.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/Ayandiwan/Ayandiwan/output/github-contribution-grid-snake-dark.svg" />
 
 </div>
 
@@ -152,27 +156,27 @@ Become a Professional Full Stack Laravel Developer.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="https://github.com/Ayandiwan">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 💡 Quote
+# 💡 Developer Quote
 
 <div align="center">
 
-> **"Code. Learn. Build. Repeat." 🚀**
+### **"Code. Learn. Build. Repeat." 🚀**
 
 </div>
 
