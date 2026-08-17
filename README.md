@@ -4,14 +4,15 @@
 
 <h1>Hi 👋, I'm Ayan Diwan</h1>
 
-<h3>🚀 Full Stack Developer | Laravel Developer | AI Enthusiast</h3>
+<h3>🚀 Full Stack Developer | Laravel Developer | .NET Developer | AI Enthusiast</h3>
 
 <p>
 B.Tech Agricultural Information Technology Student passionate about building
-modern web applications using Laravel, PHP, ASP.NET, SQL Server and AI technologies.
+modern web applications using Laravel, PHP, ASP.NET, .NET Framework, C#, SQL Server and AI technologies.
 </p>
 
 <p>
+
 <a href="https://github.com/Ayandiwan">
 <img src="https://img.shields.io/github/followers/Ayandiwan?label=Followers&logo=github&style=for-the-badge"/>
 </a>
@@ -21,6 +22,7 @@ modern web applications using Laravel, PHP, ASP.NET, SQL Server and AI technolog
 <a href="https://github.com/Ayandiwan?tab=repositories">
 <img src="https://img.shields.io/github/stars/Ayandiwan?label=Stars&style=for-the-badge"/>
 </a>
+
 </p>
 
 </div>
@@ -31,10 +33,11 @@ modern web applications using Laravel, PHP, ASP.NET, SQL Server and AI technolog
 
 - 🎓 B.Tech Agricultural Information Technology Student
 - 💻 Passionate Full Stack Developer
-- 🌱 Currently learning Laravel, ASP.NET MVC and AI Integration
-- 🛠️ Interested in building real-world web applications
-- 🚀 Currently working on **AI Based Viva Teacher**
-- 🎯 Goal: Become a Professional Full Stack Laravel Developer
+- 🚀 Laravel & .NET Developer
+- 🌱 Currently learning AI Integration and Advanced Web Development
+- 🛠️ Interested in building real-world applications
+- 🤖 Currently working on **AI Based Viva Teacher**
+- 🎯 Goal: Become a Professional Full Stack Developer
 
 ---
 
@@ -43,47 +46,103 @@ modern web applications using Laravel, PHP, ASP.NET, SQL Server and AI technolog
 ### 💻 Programming Languages
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=php,cs,python,c,html,css" />
+
 </p>
 
-### 🚀 Frameworks & Libraries
+### 🚀 Frameworks & Technologies
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=laravel,dotnet,bootstrap" />
+
 </p>
 
 ### 🗄️ Databases
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=mysql" />
+
 <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
+
 </p>
 
-### 🔧 Tools & Technologies
+### 🔧 Tools
 
 <p>
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio" />
+
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description | Technologies |
-|---|---|---|
-| 🤖 **AI Based Viva Teacher** | AI-powered viva examination system with voice/text answers, timer, AI evaluation and Admin, Teacher & Student panels. | Laravel 12, PHP, Bootstrap, MySQL |
-| 💼 **Online Job Portal** | Online job portal with employer and candidate modules. | ASP.NET MVC, SQL Server |
-| 🌾 **Agriculture Equipment Store** | Web platform for browsing and selling agricultural equipment. | PHP, Bootstrap, MySQL |
+<table>
+<tr>
+<th>Project</th>
+<th>Description</th>
+<th>Technology</th>
+</tr>
+
+<tr>
+<td>🤖 <b>AI Based Viva Teacher</b></td>
+<td>
+AI-powered viva examination system with voice/text answers,
+timer, AI evaluation and Admin, Teacher & Student panels.
+</td>
+<td>
+Laravel 12, PHP, Bootstrap 5, MySQL, JavaScript, AJAX, AI API
+</td>
+</tr>
+
+<tr>
+<td>💼 <b>Online Job Portal</b></td>
+<td>
+Online job portal with employer and candidate modules,
+job posting and application management.
+</td>
+<td>
+ASP.NET, .NET Framework, C#, SQL Server
+</td>
+</tr>
+
+<tr>
+<td>🌾 <b>Agriculture Equipment Store</b></td>
+<td>
+Web-based platform for managing and selling agricultural
+equipment with product and user management.
+</td>
+<td>
+ASP.NET, .NET Framework, C#, SQL Server
+</td>
+</tr>
+
+<tr>
+<td>🎓 <b>Student Leave Management</b></td>
+<td>
+Web application for submitting, managing and tracking
+student leave requests and approvals.
+</td>
+<td>
+ASP.NET, .NET Framework, C#, SQL Server
+</td>
+</tr>
+
+</table>
 
 ---
 
-# 🤖 Current Project
+# 📂 Project Repositories
 
-## AI Based Viva Teacher
+### 🤖 AI Based Viva Teacher
 
-An AI-powered viva examination platform designed for students and teachers.
+AI-powered viva examination platform designed for students and teachers.
 
-### ✨ Features
+#### ✨ Features
 
 - 👨‍💼 Admin Panel
 - 👨‍🏫 Teacher Panel
@@ -96,94 +155,102 @@ An AI-powered viva examination platform designed for students and teachers.
 - 📊 Automatic Marks & Results
 - 📈 Student Performance History
 
-**Tech Stack:** Laravel 12 • PHP • Bootstrap 5 • MySQL • JavaScript • AJAX • AI API
+**Tech Stack:**
+
+`Laravel 12` `PHP` `Bootstrap 5` `MySQL` `JavaScript` `AJAX` `AI API`
 
 ---
 
-# 📊 GitHub Statistics
+### 💼 Online Job Portal
 
-<div align="center">
+A job portal application developed for employers and candidates.
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ayandiwan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+#### ✨ Features
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayandiwan&layout=compact&theme=tokyonight&hide_border=true"/>
+- 👨‍💼 Employer Module
+- 👨‍🎓 Candidate Module
+- 📝 Job Posting
+- 🔎 Job Search
+- 📩 Job Application
+- 👤 User Management
+- 🗄️ Database Management
 
-</div>
+**Tech Stack:**
 
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayandiwan&theme=tokyonight&hide_border=true"/>
-
-</div>
+`ASP.NET` `.NET Framework` `C#` `SQL Server`
 
 ---
 
-# 🏆 GitHub Trophies
+### 🌾 Agriculture Equipment Store
 
-<div align="center">
+An agriculture-focused web application for managing and selling agricultural equipment.
 
-<img src="https://github-profile-trophy.vercel.app/?username=Ayandiwan&theme=algolia&no-frame=true&margin-w=10"/>
+#### ✨ Features
 
-</div>
+- 🌱 Agricultural Equipment
+- 🛒 Product Management
+- 👤 User Management
+- 📦 Product Details
+- 🔎 Product Search
+- 🗄️ Database Management
 
----
+**Tech Stack:**
 
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ayandiwan&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ayandiwan/Ayandiwan/output/github-contribution-grid-snake-dark.svg" />
-
-</div>
+`ASP.NET` `.NET Framework` `C#` `SQL Server`
 
 ---
 
-# 🌐 Connect With Me
+### 🎓 Student Leave Management
 
-<p align="center">
+A web application for managing student leave requests and approvals.
 
-<a href="https://github.com/Ayandiwan">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+#### ✨ Features
+
+- 👨‍🎓 Student Management
+- 📝 Leave Application
+- ✅ Leave Approval
+- ❌ Leave Rejection
+- 📋 Leave Records
+- 👤 User Management
+- 🗄️ Database Management
+
+🔗 **Repository:**  
+<a href="https://github.com/Ayandiwan/student_leave_management">
+Student Leave Management
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+**Tech Stack:**
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
+`ASP.NET` `.NET Framework` `C#` `SQL Server`
 
 ---
 
-# 💡 Developer Quote
+# 🤖 Current Project
 
-<div align="center">
+## AI Based Viva Teacher
 
-### **"Code. Learn. Build. Repeat." 🚀**
+An AI-powered viva examination platform that helps teachers conduct
+viva examinations and automatically evaluate student answers.
 
-</div>
+### 🔥 Main Features
 
----
+```text
+Admin
+ ├── Manage Teachers
+ ├── Manage Students
+ ├── Manage Subjects
+ ├── Manage Questions
+ └── View Analytics
 
-<div align="center">
+Teacher
+ ├── Create Subjects
+ ├── Add Questions
+ ├── Manage Viva
+ └── View Student Results
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
-
-</div>
+Student
+ ├── Select Subject
+ ├── Start Viva
+ ├── Answer Questions
+ ├── Voice / Text Answer
+ └── View AI Result
